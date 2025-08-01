@@ -8,4 +8,9 @@ assignees:
 ---
 
 ### DESCRIPTION
-> description about the task
+<!-- description about the task  -->
+
+
+##ACCEPTANCE CRITERIA
+<!-- Provide the conditions that must be met for the feature to be considered complete and functional. These criteria ensure that the issue effectively serves its purpose of standardizing issue creation and collecting necessary information.  -->
+
